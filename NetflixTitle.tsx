@@ -24,7 +24,7 @@ const NetflixTitle = () => {
   }, [isClicked, navigate]);
 
   return (
-    <div className="netflix-container" onClick={handlePlaySound}>
+    <div className="<h1>viveksfilm Portfolio</h1>" onClick={handlePlaySound}>
       <img 
         src={logoImage} 
         alt="Custom Logo" 
